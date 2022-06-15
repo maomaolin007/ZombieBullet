@@ -1,0 +1,1 @@
+{"dagger":{"X":123.33,"Y":7.14,"ScaleX":-1,"ScaleY":1,"Rotation":-88.12}}

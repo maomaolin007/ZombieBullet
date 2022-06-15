@@ -1,0 +1,1 @@
+{"tachi":{"X":244.68,"Y":3.73,"ScaleX":1,"ScaleY":1,"Rotation":-83.42}}

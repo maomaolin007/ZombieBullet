@@ -1,0 +1,111 @@
+
+Docor.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1531, 35
+  size: 159, 219
+  orig: 159, 219
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 30
+  size: 224, 322
+  orig: 224, 322
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1692, 140
+  size: 192, 114
+  orig: 192, 114
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: true
+  xy: 1886, 76
+  size: 77, 145
+  orig: 77, 145
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: true
+  xy: 326, 37
+  size: 82, 203
+  orig: 82, 203
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 845, 89
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 1055, 12
+  size: 242, 251
+  orig: 242, 251
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 699, 127
+  size: 127, 354
+  orig: 127, 354
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: true
+  xy: 1692, 39
+  size: 99, 171
+  orig: 99, 171
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: true
+  xy: 699, 20
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 531, 55
+  size: 64, 164
+  orig: 64, 164
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 1308, 2
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 1308, 33
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 326, 121
+  size: 133, 371
+  orig: 133, 371
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: true
+  xy: 1886, 155
+  size: 99, 157
+  orig: 99, 157
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Corgi.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 16
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 116, 43
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 63, 27
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+inside
+  rotate: true
+  xy: 63, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+lear
+  rotate: true
+  xy: 2, 2
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+leye
+  rotate: false
+  xy: 33, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+lfoot2
+  rotate: false
+  xy: 127, 21
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+rfoot2
+  rotate: false
+  xy: 127, 21
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: true
+  xy: 150, 35
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+lleg1
+  rotate: true
+  xy: 116, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+llfoot2
+  rotate: true
+  xy: 127, 12
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+rear
+  rotate: true
+  xy: 161, 40
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+reye
+  rotate: true
+  xy: 48, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+rfoot1
+  rotate: false
+  xy: 192, 40
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: false
+  xy: 209, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 138, 29
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+rrleg001
+  rotate: false
+  xy: 116, 12
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+rrleg002
+  rotate: false
+  xy: 192, 47
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 116, 28
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+togue
+  rotate: true
+  xy: 89, 6
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

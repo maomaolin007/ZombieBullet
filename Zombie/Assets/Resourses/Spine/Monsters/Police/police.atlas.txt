@@ -1,0 +1,125 @@
+
+police.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 153, 339
+  size: 253, 292
+  orig: 253, 292
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 665, 812
+  size: 191, 77
+  orig: 191, 77
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 153, 633
+  size: 291, 388
+  orig: 291, 388
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 665, 891
+  size: 274, 130
+  orig: 274, 130
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 941, 934
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: false
+  xy: 408, 496
+  size: 68, 135
+  orig: 68, 135
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 304, 119
+  size: 122, 37
+  orig: 122, 37
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 408, 388
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 2, 2
+  size: 99, 163
+  orig: 99, 163
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: false
+  xy: 153, 111
+  size: 149, 226
+  orig: 149, 226
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: true
+  xy: 167, 25
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: false
+  xy: 304, 158
+  size: 176, 179
+  orig: 176, 179
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 858, 827
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 446, 662
+  size: 126, 223
+  orig: 126, 223
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 671, 695
+  size: 115, 156
+  orig: 115, 156
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 446, 790
+  size: 217, 231
+  orig: 217, 231
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 2, 103
+  size: 149, 918
+  orig: 149, 918
+  offset: 0, 0
+  index: -1

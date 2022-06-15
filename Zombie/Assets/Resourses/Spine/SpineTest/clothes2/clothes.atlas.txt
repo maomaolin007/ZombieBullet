@@ -1,0 +1,20 @@
+
+clothes.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone1-clothes
+  rotate: true
+  xy: 2, 2
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+bone2-clothes
+  rotate: true
+  xy: 44, 12
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1

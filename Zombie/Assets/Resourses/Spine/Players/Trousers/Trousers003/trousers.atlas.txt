@@ -1,0 +1,55 @@
+
+trousers.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hip_clothes
+  rotate: true
+  xy: 706, 2
+  size: 116, 128
+  orig: 117, 128
+  offset: 1, 0
+  index: -1
+lleg_down_clothes
+  rotate: true
+  xy: 559, 60
+  size: 58, 145
+  orig: 58, 145
+  offset: 0, 0
+  index: -1
+lleg_up_clothes
+  rotate: true
+  xy: 2, 30
+  size: 88, 203
+  orig: 90, 203
+  offset: 1, 0
+  index: -1
+lshoot_clothes
+  rotate: false
+  xy: 836, 66
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+rleg_down_clothes
+  rotate: true
+  xy: 404, 47
+  size: 71, 153
+  orig: 71, 153
+  offset: 0, 0
+  index: -1
+rleg_up_clothes
+  rotate: true
+  xy: 207, 25
+  size: 93, 195
+  orig: 93, 195
+  offset: 0, 0
+  index: -1
+rshoot_clothes
+  rotate: false
+  xy: 836, 14
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1

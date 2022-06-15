@@ -1,0 +1,132 @@
+
+angel.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 110, 83
+  orig: 110, 83
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: true
+  xy: 313, 20
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 262, 115
+  size: 113, 128
+  orig: 113, 128
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 87
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 126, 117
+  size: 134, 111
+  orig: 134, 111
+  offset: 0, 0
+  index: -1
+larm1
+  rotate: true
+  xy: 578, 66
+  size: 51, 82
+  orig: 51, 82
+  offset: 0, 0
+  index: -1
+larm2
+  rotate: true
+  xy: 392, 94
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: true
+  xy: 494, 98
+  size: 52, 82
+  orig: 52, 82
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 578, 119
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+lleg1
+  rotate: true
+  xy: 392, 152
+  size: 76, 159
+  orig: 76, 159
+  offset: 0, 0
+  index: -1
+lleg2
+  rotate: true
+  xy: 713, 164
+  size: 64, 144
+  orig: 64, 144
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 667, 121
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+rarm1
+  rotate: true
+  xy: 385, 33
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+rarm2
+  rotate: true
+  xy: 126, 32
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 225, 32
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 859, 132
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+rleg1
+  rotate: true
+  xy: 553, 169
+  size: 59, 158
+  orig: 59, 158
+  offset: 0, 0
+  index: -1
+rleg2
+  rotate: true
+  xy: 859, 184
+  size: 44, 139
+  orig: 44, 139
+  offset: 0, 0
+  index: -1

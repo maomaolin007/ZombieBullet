@@ -1,0 +1,20 @@
+
+skeleton5.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/upordown/down
+  rotate: true
+  xy: 115, 2
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+effect/upordown/up
+  rotate: true
+  xy: 2, 2
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1

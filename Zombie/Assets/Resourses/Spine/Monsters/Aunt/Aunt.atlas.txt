@@ -1,0 +1,104 @@
+
+Aunt.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 46
+  size: 486, 464
+  orig: 486, 464
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 668, 406
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 490, 333
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 937, 408
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 2, 16
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: true
+  xy: 585, 111
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 490, 2
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: true
+  xy: 585, 199
+  size: 132, 69
+  orig: 132, 69
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 807, 348
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: false
+  xy: 613, 30
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 771, 354
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 490, 101
+  size: 93, 230
+  orig: 93, 230
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 822, 405
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 668, 340
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1

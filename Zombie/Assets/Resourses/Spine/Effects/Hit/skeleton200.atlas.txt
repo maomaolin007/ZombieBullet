@@ -1,0 +1,132 @@
+
+skeleton200.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/aggravate/aggravate01
+  rotate: false
+  xy: 1379, 72
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate02
+  rotate: false
+  xy: 1435, 73
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate03
+  rotate: false
+  xy: 1250, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate04
+  rotate: false
+  xy: 1172, 50
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate05
+  rotate: false
+  xy: 917, 44
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate06
+  rotate: false
+  xy: 825, 38
+  size: 90, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate07
+  rotate: false
+  xy: 732, 34
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate08
+  rotate: false
+  xy: 636, 33
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+effect/aggravate/aggravate09
+  rotate: true
+  xy: 1077, 67
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+effect/bounce/bounce01
+  rotate: false
+  xy: 2, 30
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+effect/bounce/bounce02
+  rotate: false
+  xy: 114, 33
+  size: 105, 93
+  orig: 105, 93
+  offset: 0, 0
+  index: -1
+effect/bounce/bounce03
+  rotate: false
+  xy: 221, 36
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake01
+  rotate: false
+  xy: 531, 40
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake02
+  rotate: false
+  xy: 327, 33
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake03
+  rotate: true
+  xy: 430, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake04
+  rotate: false
+  xy: 1001, 45
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake05
+  rotate: false
+  xy: 1077, 2
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+effect/uptake/uptake06
+  rotate: false
+  xy: 1318, 68
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1

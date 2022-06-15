@@ -1,0 +1,276 @@
+{
+  "Dict": {
+    "Hat001": {
+      "ID": "ht001",
+      "Name": "ht001",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat002": {
+      "ID": "ht002",
+      "Name": "ht002",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat003": {
+      "ID": "ht003",
+      "Name": "ht003",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat004": {
+      "ID": "ht004",
+      "Name": "ht004",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat005": {
+      "ID": "ht005",
+      "Name": "ht005",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat006": {
+      "ID": "ht006",
+      "Name": "ht006",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat007": {
+      "ID": "ht007",
+      "Name": "ht007",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat008": {
+      "ID": "ht008",
+      "Name": "ht008",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat009": {
+      "ID": "ht009",
+      "Name": "ht009",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat010": {
+      "ID": "ht010",
+      "Name": "ht010",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": true,
+      "WeaponType": 0
+    },
+    "Hat011": {
+      "ID": "ht011",
+      "Name": "ht011",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat012": {
+      "ID": "ht012",
+      "Name": "ht012",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat013": {
+      "ID": "ht013",
+      "Name": "ht013",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat014": {
+      "ID": "ht014",
+      "Name": "ht014",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat015": {
+      "ID": "ht015",
+      "Name": "ht015",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat016": {
+      "ID": "ht016",
+      "Name": "ht016",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat017": {
+      "ID": "ht017",
+      "Name": "ht017",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat018": {
+      "ID": "ht018",
+      "Name": "ht018",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat019": {
+      "ID": "ht019",
+      "Name": "ht019",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat020": {
+      "ID": "ht020",
+      "Name": "ht020",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat021": {
+      "ID": "ht021",
+      "Name": "ht021",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat022": {
+      "ID": "ht022",
+      "Name": "ht022",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat023": {
+      "ID": "ht023",
+      "Name": "ht023",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat024": {
+      "ID": "ht024",
+      "Name": "ht024",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat025": {
+      "ID": "ht025",
+      "Name": "ht025",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat026": {
+      "ID": "ht026",
+      "Name": "ht026",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat027": {
+      "ID": "ht027",
+      "Name": "ht027",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat028": {
+      "ID": "ht028",
+      "Name": "ht028",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat029": {
+      "ID": "ht029",
+      "Name": "ht029",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat030": {
+      "ID": "ht030",
+      "Name": "ht030",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat031": {
+      "ID": "ht031",
+      "Name": "ht031",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat032": {
+      "ID": "ht032",
+      "Name": "ht032",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat033": {
+      "ID": "ht033",
+      "Name": "ht033",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hat034": {
+      "ID": "ht034",
+      "Name": "ht034",
+      "Gender": 3,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    }
+  }
+}

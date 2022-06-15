@@ -1,0 +1,100 @@
+{
+  "Dict": {
+    "Hairstyle001": {
+      "ID": "hs001",
+      "Name": "hs001",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle002": {
+      "ID": "hs002",
+      "Name": "hs002",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle003": {
+      "ID": "hs003",
+      "Name": "hs003",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle004": {
+      "ID": "hs004",
+      "Name": "hs004",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle005": {
+      "ID": "hs005",
+      "Name": "hs005",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle006": {
+      "ID": "hs006",
+      "Name": "hs006",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle007": {
+      "ID": "hs007",
+      "Name": "hs007",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle008": {
+      "ID": "hs008",
+      "Name": "hs008",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle009": {
+      "ID": "hs009",
+      "Name": "hs009",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle010": {
+      "ID": "hs010",
+      "Name": "hs010",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle011": {
+      "ID": "hs011",
+      "Name": "hs011",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Hairstyle012": {
+      "ID": "hs012",
+      "Name": "hs012",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    }
+  }
+}

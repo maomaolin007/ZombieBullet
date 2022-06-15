@@ -1,0 +1,132 @@
+
+fire.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 230, 129
+  size: 125, 220
+  orig: 125, 220
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 782, 101
+  size: 99, 93
+  orig: 99, 93
+  offset: 0, 0
+  index: -1
+effect/effect_k01
+  rotate: false
+  xy: 670, 196
+  size: 222, 58
+  orig: 222, 58
+  offset: 0, 0
+  index: -1
+effect/effect_p01
+  rotate: false
+  xy: 452, 154
+  size: 216, 100
+  orig: 216, 100
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 42
+  size: 226, 212
+  orig: 226, 212
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1404, 132
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: true
+  xy: 610, 49
+  size: 103, 58
+  orig: 103, 58
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: true
+  xy: 2, 5
+  size: 35, 146
+  orig: 35, 146
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 1678, 175
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 670, 109
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 894, 193
+  size: 61, 187
+  orig: 61, 187
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: true
+  xy: 1083, 113
+  size: 141, 161
+  orig: 141, 161
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 1521, 177
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 1830, 167
+  size: 87, 143
+  orig: 87, 143
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 502, 50
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 399, 14
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 230, 2
+  size: 125, 167
+  orig: 125, 167
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: true
+  xy: 1246, 128
+  size: 126, 156
+  orig: 126, 156
+  offset: 0, 0
+  index: -1

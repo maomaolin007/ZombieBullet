@@ -1,0 +1,90 @@
+
+Thief.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 171, 185
+  orig: 171, 185
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1855, 114
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 175, 18
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1502, 86
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+leftarm001
+  rotate: true
+  xy: 775, 73
+  size: 114, 199
+  orig: 114, 199
+  offset: 0, 0
+  index: -1
+leftarm002
+  rotate: true
+  xy: 1359, 87
+  size: 100, 141
+  orig: 100, 141
+  offset: 0, 0
+  index: -1
+leftleg001
+  rotate: true
+  xy: 562, 80
+  size: 107, 211
+  orig: 107, 211
+  offset: 0, 0
+  index: -1
+leftleg002
+  rotate: true
+  xy: 976, 66
+  size: 121, 192
+  orig: 121, 192
+  offset: 0, 0
+  index: -1
+rightarm001
+  rotate: true
+  xy: 1744, 92
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+rightarm002
+  rotate: false
+  xy: 1626, 85
+  size: 116, 102
+  orig: 116, 102
+  offset: 0, 0
+  index: -1
+rightleg002
+  rotate: true
+  xy: 1170, 95
+  size: 92, 187
+  orig: 92, 187
+  offset: 0, 0
+  index: -1
+rlightleg001
+  rotate: true
+  xy: 357, 56
+  size: 131, 203
+  orig: 131, 203
+  offset: 0, 0
+  index: -1

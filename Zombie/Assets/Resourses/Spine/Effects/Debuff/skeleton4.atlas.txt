@@ -1,0 +1,125 @@
+
+skeleton4.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/buff/attack
+  rotate: false
+  xy: 217, 3
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/confusion01
+  rotate: false
+  xy: 323, 3
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/confusion02
+  rotate: false
+  xy: 429, 3
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/deadly
+  rotate: false
+  xy: 1641, 12
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+effect/buff/defend
+  rotate: false
+  xy: 2, 2
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+effect/buff/despair
+  rotate: false
+  xy: 535, 3
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/ductility
+  rotate: false
+  xy: 641, 5
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+effect/buff/fire01
+  rotate: true
+  xy: 749, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/fire02
+  rotate: true
+  xy: 861, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/fire03
+  rotate: true
+  xy: 973, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/grudge
+  rotate: true
+  xy: 1085, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/ice
+  rotate: true
+  xy: 1197, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/oblivion
+  rotate: true
+  xy: 1309, 9
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/penetration
+  rotate: true
+  xy: 1421, 9
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+effect/buff/rage
+  rotate: true
+  xy: 1531, 9
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+effect/buff/reflect
+  rotate: false
+  xy: 111, 3
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+effect/buff/speed
+  rotate: false
+  xy: 1753, 7
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

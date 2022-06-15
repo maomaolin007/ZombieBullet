@@ -1,0 +1,104 @@
+
+Monkey.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 360
+  size: 1039, 653
+  orig: 1039, 653
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1043, 542
+  size: 471, 666
+  orig: 471, 666
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 2872, 658
+  size: 238, 355
+  orig: 238, 355
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: false
+  xy: 1711, 627
+  size: 579, 386
+  orig: 579, 386
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 3112, 668
+  size: 184, 150
+  orig: 184, 150
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 380, 157
+  size: 265, 201
+  orig: 265, 201
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: false
+  xy: 2, 2
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: false
+  xy: 647, 170
+  size: 211, 188
+  orig: 211, 188
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: true
+  xy: 2, 120
+  size: 238, 376
+  orig: 238, 376
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: false
+  xy: 2292, 626
+  size: 578, 387
+  orig: 578, 387
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 1043, 381
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 3112, 820
+  size: 269, 193
+  orig: 269, 193
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: false
+  xy: 860, 250
+  size: 141, 108
+  orig: 141, 108
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 3383, 832
+  size: 216, 181
+  orig: 216, 181
+  offset: 0, 0
+  index: -1

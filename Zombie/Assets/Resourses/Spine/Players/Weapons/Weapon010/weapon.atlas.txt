@@ -1,0 +1,20 @@
+
+weapon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lglove
+  rotate: false
+  xy: 2, 2
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+rglove
+  rotate: true
+  xy: 99, 13
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1

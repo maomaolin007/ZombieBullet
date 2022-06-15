@@ -1,0 +1,1 @@
+{"body_clothes":{"X":85.46,"Y":-3.52,"ScaleX":1.6,"ScaleY":1.6,"Rotation":-79.13},"neck_clothes":{"X":19.86,"Y":3.13,"ScaleX":1.6,"ScaleY":1.996,"Rotation":-81.98}}

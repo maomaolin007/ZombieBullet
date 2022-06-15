@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothes1/bone1-clothes
+  rotate: true
+  xy: 84, 4
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+clothes1/bone2-clothes
+  rotate: true
+  xy: 148, 2
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+skin1/bone1-skin
+  rotate: true
+  xy: 2, 4
+  size: 20, 80
+  orig: 20, 80
+  offset: 0, 0
+  index: -1
+skin1/bone2-skin
+  rotate: true
+  xy: 148, 14
+  size: 10, 80
+  orig: 10, 80
+  offset: 0, 0
+  index: -1
+weapon1/weapon
+  rotate: false
+  xy: 126, 4
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

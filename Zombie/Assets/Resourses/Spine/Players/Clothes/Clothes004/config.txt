@@ -1,0 +1,1 @@
+{"body_clothes":{"X":87.7,"Y":-7.55,"ScaleX":1.6,"ScaleY":1.6,"Rotation":-79.13},"larm_up_clothes":{"X":85.73,"Y":-2.78,"ScaleX":1.6,"ScaleY":1.6,"Rotation":112.1},"neck_clothes":{"X":7.64,"Y":2.93,"ScaleX":1.6,"ScaleY":1.6,"Rotation":-103.28},"rarm_down_clothes":{"X":101.7,"Y":3.31,"ScaleX":1.6,"ScaleY":1.6,"Rotation":85.4}}

@@ -1,0 +1,1028 @@
+
+skeleton3.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/addblood/addblood01
+  rotate: true
+  xy: 165, 573
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood02
+  rotate: true
+  xy: 591, 312
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood03
+  rotate: false
+  xy: 363, 308
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood04
+  rotate: false
+  xy: 2574, 573
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood05
+  rotate: false
+  xy: 770, 323
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood06
+  rotate: true
+  xy: 2017, 861
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+effect/addblood/addblood07
+  rotate: true
+  xy: 3724, 948
+  size: 54, 191
+  orig: 54, 191
+  offset: 0, 0
+  index: -1
+effect/boom/boom01
+  rotate: false
+  xy: 1219, 246
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+effect/boom/boom02
+  rotate: false
+  xy: 3917, 889
+  size: 168, 113
+  orig: 168, 113
+  offset: 0, 0
+  index: -1
+effect/boom/boom03
+  rotate: true
+  xy: 2, 187
+  size: 187, 132
+  orig: 187, 132
+  offset: 0, 0
+  index: -1
+effect/boom/boom04
+  rotate: false
+  xy: 2409, 875
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+effect/boom/boom05
+  rotate: false
+  xy: 1853, 880
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+effect/boom/boom06
+  rotate: false
+  xy: 2230, 880
+  size: 177, 122
+  orig: 177, 122
+  offset: 0, 0
+  index: -1
+effect/boom/boom07
+  rotate: false
+  xy: 1305, 879
+  size: 181, 123
+  orig: 181, 123
+  offset: 0, 0
+  index: -1
+effect/boom/boom08
+  rotate: true
+  xy: 2, 2
+  size: 183, 125
+  orig: 183, 125
+  offset: 0, 0
+  index: -1
+effect/boom/boom09
+  rotate: false
+  xy: 1120, 875
+  size: 183, 127
+  orig: 183, 127
+  offset: 0, 0
+  index: -1
+effect/boom/boom10
+  rotate: false
+  xy: 1488, 879
+  size: 181, 123
+  orig: 181, 123
+  offset: 0, 0
+  index: -1
+effect/boom/boom11
+  rotate: false
+  xy: 1671, 878
+  size: 180, 124
+  orig: 180, 124
+  offset: 0, 0
+  index: -1
+effect/boom/boom12
+  rotate: false
+  xy: 2579, 878
+  size: 164, 124
+  orig: 164, 124
+  offset: 0, 0
+  index: -1
+effect/boom/boom13
+  rotate: false
+  xy: 1120, 779
+  size: 164, 94
+  orig: 164, 94
+  offset: 0, 0
+  index: -1
+effect/boom/boom14
+  rotate: false
+  xy: 850, 323
+  size: 121, 68
+  orig: 121, 68
+  offset: 0, 0
+  index: -1
+effect/boom/boom15
+  rotate: false
+  xy: 2607, 444
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion01
+  rotate: true
+  xy: 2225, 502
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion02
+  rotate: false
+  xy: 1313, 251
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion03
+  rotate: false
+  xy: 2487, 769
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion04
+  rotate: true
+  xy: 520, 541
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion05
+  rotate: false
+  xy: 3900, 690
+  size: 116, 101
+  orig: 116, 101
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion06
+  rotate: false
+  xy: 1997, 504
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+effect/debuff/confusion/debuff_confusion07
+  rotate: false
+  xy: 2425, 460
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire01
+  rotate: false
+  xy: 2672, 443
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire02
+  rotate: false
+  xy: 1219, 339
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire03
+  rotate: true
+  xy: 4018, 675
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire04
+  rotate: false
+  xy: 2941, 912
+  size: 192, 90
+  orig: 192, 90
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire05
+  rotate: false
+  xy: 3065, 761
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire06
+  rotate: false
+  xy: 295, 391
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire07
+  rotate: false
+  xy: 370, 660
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire08
+  rotate: false
+  xy: 3309, 767
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire09
+  rotate: false
+  xy: 3682, 778
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire10
+  rotate: true
+  xy: 3912, 793
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire11
+  rotate: false
+  xy: 754, 668
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire12
+  rotate: false
+  xy: 754, 517
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire13
+  rotate: false
+  xy: 754, 366
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire14
+  rotate: false
+  xy: 1123, 400
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire15
+  rotate: false
+  xy: 1246, 628
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire16
+  rotate: true
+  xy: 2034, 799
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire17
+  rotate: true
+  xy: 2185, 784
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire18
+  rotate: true
+  xy: 2017, 703
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire19
+  rotate: true
+  xy: 2168, 688
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire20
+  rotate: true
+  xy: 2009, 607
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire21
+  rotate: true
+  xy: 2160, 592
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire22
+  rotate: true
+  xy: 2336, 779
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/fire/debuff_fire23
+  rotate: true
+  xy: 2319, 683
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge01
+  rotate: false
+  xy: 1286, 819
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge02
+  rotate: false
+  xy: 346, 119
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge03
+  rotate: true
+  xy: 349, 180
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge04
+  rotate: true
+  xy: 2225, 439
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge05
+  rotate: false
+  xy: 2607, 501
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge06
+  rotate: false
+  xy: 655, 316
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge07
+  rotate: false
+  xy: 1402, 245
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge08
+  rotate: true
+  xy: 349, 243
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge09
+  rotate: true
+  xy: 981, 345
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge10
+  rotate: false
+  xy: 1552, 506
+  size: 63, 107
+  orig: 63, 107
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge11
+  rotate: true
+  xy: 1203, 564
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge12
+  rotate: true
+  xy: 1330, 335
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge13
+  rotate: true
+  xy: 145, 329
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge14
+  rotate: true
+  xy: 4063, 800
+  size: 87, 19
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge15
+  rotate: true
+  xy: 1080, 310
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge16
+  rotate: true
+  xy: 1726, 514
+  size: 98, 66
+  orig: 98, 66
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge17
+  rotate: true
+  xy: 1123, 303
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge18
+  rotate: true
+  xy: 1876, 761
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge19
+  rotate: true
+  xy: 2, 376
+  size: 192, 141
+  orig: 192, 141
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge20
+  rotate: false
+  xy: 2034, 895
+  size: 194, 107
+  orig: 194, 107
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge21
+  rotate: false
+  xy: 2745, 912
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge22
+  rotate: false
+  xy: 3135, 918
+  size: 195, 84
+  orig: 195, 84
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge23
+  rotate: false
+  xy: 3332, 922
+  size: 194, 80
+  orig: 194, 80
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge24
+  rotate: false
+  xy: 3528, 929
+  size: 194, 73
+  orig: 194, 73
+  offset: 0, 0
+  index: -1
+effect/debuff/grudge/debuff_grudge25
+  rotate: true
+  xy: 165, 633
+  size: 168, 45
+  orig: 168, 45
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice01
+  rotate: false
+  xy: 720, 317
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice02
+  rotate: true
+  xy: 410, 121
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice03
+  rotate: false
+  xy: 1794, 527
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice04
+  rotate: false
+  xy: 2641, 577
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice05
+  rotate: false
+  xy: 258, 308
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice06
+  rotate: false
+  xy: 248, 128
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice07
+  rotate: false
+  xy: 129, 22
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice08
+  rotate: false
+  xy: 1617, 509
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice09
+  rotate: false
+  xy: 1442, 509
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice10
+  rotate: false
+  xy: 1330, 399
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice11
+  rotate: false
+  xy: 1330, 507
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice12
+  rotate: true
+  xy: 1219, 451
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+effect/debuff/ice/debuff_ice13
+  rotate: false
+  xy: 2111, 481
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion01
+  rotate: true
+  xy: 415, 180
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion02
+  rotate: false
+  xy: 511, 319
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion03
+  rotate: false
+  xy: 1104, 551
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion04
+  rotate: false
+  xy: 136, 124
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion05
+  rotate: false
+  xy: 2596, 650
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion06
+  rotate: false
+  xy: 2470, 648
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion07
+  rotate: false
+  xy: 1879, 636
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion08
+  rotate: false
+  xy: 1487, 615
+  size: 131, 127
+  orig: 131, 127
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion09
+  rotate: true
+  xy: 1620, 614
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion10
+  rotate: false
+  xy: 1750, 616
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion11
+  rotate: false
+  xy: 1749, 746
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion12
+  rotate: false
+  xy: 631, 541
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+effect/debuff/oblivion/debuff_oblivion13
+  rotate: true
+  xy: 3778, 694
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow01
+  rotate: false
+  xy: 145, 392
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow02
+  rotate: false
+  xy: 604, 669
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow03
+  rotate: false
+  xy: 960, 695
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow04
+  rotate: false
+  xy: 981, 409
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow05
+  rotate: false
+  xy: 1104, 637
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow06
+  rotate: false
+  xy: 1342, 737
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow07
+  rotate: false
+  xy: 404, 814
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+effect/debuff/slow/debuff_slow08
+  rotate: false
+  xy: 953, 837
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair01
+  rotate: true
+  xy: 850, 537
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair02
+  rotate: false
+  xy: 2907, 787
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair03
+  rotate: false
+  xy: 212, 542
+  size: 154, 121
+  orig: 154, 121
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair04
+  rotate: true
+  xy: 3405, 776
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair05
+  rotate: true
+  xy: 973, 551
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair06
+  rotate: false
+  xy: 3536, 784
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair07
+  rotate: false
+  xy: 3778, 803
+  size: 132, 143
+  orig: 132, 143
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair08
+  rotate: true
+  xy: 1342, 617
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair09
+  rotate: false
+  xy: 2311, 574
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair10
+  rotate: true
+  xy: 850, 682
+  size: 149, 108
+  orig: 149, 108
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair11
+  rotate: true
+  xy: 391, 392
+  size: 152, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair12
+  rotate: true
+  xy: 513, 386
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair13
+  rotate: true
+  xy: 850, 393
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair14
+  rotate: false
+  xy: 1484, 744
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+effect/despair/debuff_despair15
+  rotate: true
+  xy: 2597, 763
+  size: 113, 127
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel01
+  rotate: false
+  xy: 1617, 746
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel02
+  rotate: false
+  xy: 2, 803
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel03
+  rotate: false
+  xy: 594, 819
+  size: 177, 183
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel04
+  rotate: false
+  xy: 203, 811
+  size: 199, 191
+  orig: 199, 191
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel05
+  rotate: false
+  xy: 773, 833
+  size: 178, 169
+  orig: 178, 169
+  offset: 0, 0
+  index: -1
+effect/dispel/buff_dispel06
+  rotate: false
+  xy: 212, 665
+  size: 156, 144
+  orig: 156, 144
+  offset: 0, 0
+  index: -1
+effect/effect_buff/reflect
+  rotate: true
+  xy: 2, 570
+  size: 231, 161
+  orig: 231, 161
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_01
+  rotate: true
+  xy: 2672, 507
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_02
+  rotate: false
+  xy: 440, 313
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_03
+  rotate: true
+  xy: 2446, 560
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_04
+  rotate: false
+  xy: 633, 394
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_05
+  rotate: false
+  xy: 466, 660
+  size: 136, 152
+  orig: 136, 152
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_06
+  rotate: false
+  xy: 3161, 764
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_07
+  rotate: true
+  xy: 2745, 793
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_08
+  rotate: true
+  xy: 368, 546
+  size: 112, 150
+  orig: 112, 150
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_09
+  rotate: true
+  xy: 1879, 523
+  size: 111, 116
+  orig: 111, 116
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_10
+  rotate: true
+  xy: 2311, 463
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_11
+  rotate: false
+  xy: 136, 223
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_12
+  rotate: false
+  xy: 244, 224
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+effect/smog/skill_smog_13
+  rotate: true
+  xy: 2538, 459
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1

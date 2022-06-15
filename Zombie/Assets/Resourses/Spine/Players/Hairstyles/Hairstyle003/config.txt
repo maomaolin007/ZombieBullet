@@ -1,0 +1,16 @@
+{
+  "hair_front": {
+    "X": 117.47,
+    "Y": 6.45,
+    "ScaleX": 2.16,
+    "ScaleY": 2.16,
+    "Rotation": -99.19
+  },
+  "hair_back": {
+    "X": 70.07,
+    "Y": 65.43,
+    "ScaleX": 2,
+    "ScaleY": 2,
+    "Rotation": 94.34
+  }
+}

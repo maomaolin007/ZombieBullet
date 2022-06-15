@@ -1,0 +1,20 @@
+
+skin.png
+size: 32,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone1-skin
+  rotate: false
+  xy: 2, 84
+  size: 20, 80
+  orig: 20, 80
+  offset: 0, 0
+  index: -1
+bone2-skin
+  rotate: false
+  xy: 2, 2
+  size: 10, 80
+  orig: 10, 80
+  offset: 0, 0
+  index: -1

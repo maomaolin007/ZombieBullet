@@ -1,0 +1,132 @@
+
+monster002.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 292, 43
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 704, 93
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+effect/effect_k01
+  rotate: true
+  xy: 147, 16
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/effect_p01
+  rotate: true
+  xy: 2, 16
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 488, 59
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 606, 80
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 547, 68
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: true
+  xy: 2, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 842, 107
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 429, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: false
+  xy: 747, 94
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: false
+  xy: 547, 88
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 775, 98
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 292, 16
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 876, 103
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 369, 50
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 807, 104
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 656, 85
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1

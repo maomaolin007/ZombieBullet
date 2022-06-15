@@ -1,0 +1,20 @@
+
+Flyskull.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chin
+  rotate: false
+  xy: 2, 2
+  size: 110, 83
+  orig: 110, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 87
+  size: 383, 318
+  orig: 383, 318
+  offset: 0, 0
+  index: -1

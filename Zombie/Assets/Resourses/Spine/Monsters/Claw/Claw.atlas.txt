@@ -1,0 +1,111 @@
+
+Claw.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 861, 210
+  size: 384, 283
+  orig: 384, 283
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 424, 224
+  size: 435, 269
+  orig: 435, 269
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1565, 308
+  size: 231, 185
+  orig: 231, 185
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 424, 36
+  size: 272, 186
+  orig: 272, 186
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: false
+  xy: 1247, 289
+  size: 316, 204
+  orig: 316, 204
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 1455, 205
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 2, 22
+  size: 420, 471
+  orig: 420, 471
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 1247, 192
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: false
+  xy: 698, 21
+  size: 145, 201
+  orig: 145, 201
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 1017, 70
+  size: 97, 138
+  orig: 97, 138
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 1798, 333
+  size: 160, 189
+  orig: 160, 189
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 845, 2
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 1116, 84
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 1353, 188
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 845, 66
+  size: 170, 142
+  orig: 170, 142
+  offset: 0, 0
+  index: -1

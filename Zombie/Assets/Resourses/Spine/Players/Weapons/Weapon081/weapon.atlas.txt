@@ -1,0 +1,13 @@
+
+weapon.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dagger
+  rotate: false
+  xy: 2, 2
+  size: 117, 226
+  orig: 117, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,73 @@
+{
+"skeleton": { "hash": "xXXrdD0aCbJ+CVN7jJIh6mG5QV4", "spine": "3.6.52", "width": 101.55, "height": 90.28, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone1", "parent": "root", "length": 75.08, "rotation": 90, "scaleX": 1.038 },
+	{ "name": "bone2", "parent": "bone1", "length": 82.46, "rotation": -90, "x": 75.91 },
+	{ "name": "bone3", "parent": "bone2", "length": 18.76, "x": 80.81, "y": -0.46 }
+],
+"slots": [
+	{ "name": "bone1-skin", "bone": "bone1", "attachment": "skin1/bone1-skin" },
+	{ "name": "bone2-skin", "bone": "bone2", "attachment": "skin1/bone2-skin" },
+	{ "name": "bone1-clothes", "bone": "bone1", "attachment": "clothes1/bone1-clothes" },
+	{ "name": "bone2-clothes", "bone": "bone2", "attachment": "clothes1/bone2-clothes" },
+	{ "name": "weapon", "bone": "bone3", "attachment": "weapon1/weapon" }
+],
+"skins": {
+	"default": {
+		"bone1-clothes": {
+			"clothes1/bone1-clothes": { "x": 38.52, "rotation": -87.88, "width": 20, "height": 40 }
+		},
+		"bone1-skin": {
+			"skin1/bone1-skin": { "x": 38.52, "rotation": -90, "width": 20, "height": 80 }
+		},
+		"bone2-clothes": {
+			"clothes1/bone2-clothes": { "x": 40, "rotation": -90, "width": 10, "height": 40 }
+		},
+		"bone2-skin": {
+			"skin1/bone2-skin": { "x": 40, "rotation": -90, "width": 10, "height": 80 }
+		},
+		"weapon": {
+			"weapon1/weapon": { "rotation": -90, "width": 20, "height": 20 }
+		}
+	}
+},
+"animations": {
+	"movedown": {
+		"bones": {
+			"bone1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 91.04 },
+					{ "time": 0.1667, "angle": 0 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"moveup": {
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": 90 }
+				]
+			}
+		}
+	}
+}
+}

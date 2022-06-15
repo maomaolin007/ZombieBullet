@@ -1,0 +1,97 @@
+
+Headball.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 472, 722
+  size: 352, 300
+  orig: 352, 300
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 548
+  size: 468, 474
+  orig: 468, 474
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 2, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: true
+  xy: 472, 573
+  size: 147, 284
+  orig: 147, 284
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: true
+  xy: 758, 607
+  size: 113, 45
+  orig: 113, 45
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: false
+  xy: 805, 608
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: true
+  xy: 365, 212
+  size: 160, 131
+  orig: 160, 131
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 365, 374
+  size: 99, 172
+  orig: 99, 172
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: false
+  xy: 2, 66
+  size: 361, 480
+  orig: 361, 480
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 947, 733
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 365, 63
+  size: 147, 130
+  orig: 147, 130
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: true
+  xy: 826, 714
+  size: 106, 119
+  orig: 106, 119
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 826, 822
+  size: 173, 200
+  orig: 173, 200
+  offset: 0, 0
+  index: -1

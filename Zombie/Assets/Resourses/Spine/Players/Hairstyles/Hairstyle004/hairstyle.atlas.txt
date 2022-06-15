@@ -1,0 +1,12 @@
+hairstyle.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair_front
+  rotate: false
+  xy: 2, 2
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1

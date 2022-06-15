@@ -1,0 +1,100 @@
+{
+  "Dict": {
+    "Face001": {
+      "ID": "f001",
+      "Name": "f001",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face002": {
+      "ID": "f002",
+      "Name": "f002",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face003": {
+      "ID": "f003",
+      "Name": "f003",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face004": {
+      "ID": "f004",
+      "Name": "f004",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face005": {
+      "ID": "f005",
+      "Name": "f005",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face006": {
+      "ID": "f006",
+      "Name": "f006",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face007": {
+      "ID": "f007",
+      "Name": "f007",
+      "Gender": 1,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face008": {
+      "ID": "f008",
+      "Name": "f008",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face009": {
+      "ID": "f009",
+      "Name": "f009",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face010": {
+      "ID": "f010",
+      "Name": "f010",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face011": {
+      "ID": "f011",
+      "Name": "f011",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Face012": {
+      "ID": "f012",
+      "Name": "f012",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    }
+  }
+}

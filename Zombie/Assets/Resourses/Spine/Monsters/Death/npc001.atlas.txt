@@ -1,0 +1,174 @@
+
+npc001.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 357, 64
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 1013, 227
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 298, 166
+  size: 175, 88
+  orig: 175, 88
+  offset: 0, 0
+  index: -1
+cube
+  rotate: false
+  xy: 336, 14
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 703, 198
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 357, 2
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: true
+  xy: 901, 203
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: false
+  xy: 959, 217
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+lfinger
+  rotate: true
+  xy: 408, 3
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 298, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 457, 73
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+lleg
+  rotate: false
+  xy: 775, 200
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+lleg_1
+  rotate: false
+  xy: 838, 200
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+lshoulder
+  rotate: true
+  xy: 598, 197
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+rapper
+  rotate: true
+  xy: 2, 8
+  size: 246, 294
+  orig: 246, 294
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 422, 64
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: false
+  xy: 528, 154
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+rfinger
+  rotate: false
+  xy: 483, 86
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 475, 106
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 408, 27
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+rleg
+  rotate: false
+  xy: 422, 106
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+rleg_1
+  rotate: false
+  xy: 475, 135
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+rshoudler
+  rotate: true
+  xy: 475, 195
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+ski
+  rotate: false
+  xy: 298, 27
+  size: 57, 137
+  orig: 57, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,164 @@
+{
+  "Dict": {
+    "Trousers001": {
+      "ID": "tr001",
+      "Name": "tr001",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers002": {
+      "ID": "tr002",
+      "Name": "tr002",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers003": {
+      "ID": "tr003",
+      "Name": "tr003",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers004": {
+      "ID": "tr004",
+      "Name": "tr004",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers005": {
+      "ID": "tr005",
+      "Name": "tr005",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers006": {
+      "ID": "tr006",
+      "Name": "tr006",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers007": {
+      "ID": "tr007",
+      "Name": "tr007",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers008": {
+      "ID": "tr008",
+      "Name": "tr008",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers009": {
+      "ID": "tr009",
+      "Name": "tr009",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers010": {
+      "ID": "tr010",
+      "Name": "tr010",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    }
+,
+    "Trousers011": {
+      "ID": "tr011",
+      "Name": "tr011",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers012": {
+      "ID": "tr012",
+      "Name": "tr012",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers013": {
+      "ID": "tr013",
+      "Name": "tr013",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers014": {
+      "ID": "tr014",
+      "Name": "tr014",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers015": {
+      "ID": "tr015",
+      "Name": "tr015",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers016": {
+      "ID": "tr016",
+      "Name": "tr016",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers017": {
+      "ID": "tr017",
+      "Name": "tr017",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers018": {
+      "ID": "tr018",
+      "Name": "tr018",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers019": {
+      "ID": "tr019",
+      "Name": "tr019",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    },
+    "Trousers020": {
+      "ID": "tr020",
+      "Name": "tr020",
+      "Gender": 2,
+      "Profession": 63,
+      "HatHidesHair": false,
+      "WeaponType": 0
+    }  }
+}

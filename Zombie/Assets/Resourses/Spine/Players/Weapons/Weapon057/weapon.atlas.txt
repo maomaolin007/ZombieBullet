@@ -1,0 +1,13 @@
+
+weapon.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tachi
+  rotate: false
+  xy: 2, 2
+  size: 100, 228
+  orig: 100, 228
+  offset: 0, 0
+  index: -1

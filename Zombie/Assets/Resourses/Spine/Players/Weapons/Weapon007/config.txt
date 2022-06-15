@@ -1,0 +1,1 @@
+{"lglove":{"X":16.65,"Y":-10.29,"ScaleX":1.7,"ScaleY":1.7,"Rotation":95.36},"rglove":{"X":11.96,"Y":-2.76,"ScaleX":1.7,"ScaleY":1.7,"Rotation":94.52}}

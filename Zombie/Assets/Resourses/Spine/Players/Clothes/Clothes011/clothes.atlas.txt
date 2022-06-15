@@ -1,0 +1,41 @@
+
+clothes.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_clothes
+  rotate: false
+  xy: 2, 167
+  size: 364, 260
+  orig: 364, 260
+  offset: 0, 0
+  index: -1
+larm_down_clothes
+  rotate: false
+  xy: 696, 216
+  size: 142, 211
+  orig: 142, 211
+  offset: 0, 0
+  index: -1
+larm_up_clothes
+  rotate: true
+  xy: 2, 2
+  size: 163, 247
+  orig: 163, 247
+  offset: 0, 0
+  index: -1
+rarm_down_clothes
+  rotate: false
+  xy: 840, 195
+  size: 112, 232
+  orig: 112, 232
+  offset: 0, 0
+  index: -1
+rarm_up_clothes
+  rotate: true
+  xy: 368, 166
+  size: 261, 326
+  orig: 261, 326
+  offset: 0, 0
+  index: -1

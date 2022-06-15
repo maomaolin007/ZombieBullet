@@ -1,0 +1,111 @@
+
+Stone.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 565, 33
+  size: 433, 452
+  orig: 433, 452
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2055, 330
+  size: 155, 307
+  orig: 155, 307
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2364, 256
+  size: 233, 229
+  orig: 233, 229
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 1792, 276
+  size: 261, 209
+  orig: 261, 209
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: false
+  xy: 1000, 174
+  size: 412, 311
+  orig: 412, 311
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 2809, 313
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 2, 2
+  size: 561, 483
+  orig: 561, 483
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: false
+  xy: 1792, 192
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: false
+  xy: 2809, 372
+  size: 175, 113
+  orig: 175, 113
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 1000, 35
+  size: 201, 137
+  orig: 201, 137
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 1414, 192
+  size: 293, 376
+  orig: 293, 376
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: true
+  xy: 1319, 68
+  size: 104, 59
+  orig: 104, 59
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 2986, 375
+  size: 110, 116
+  orig: 110, 116
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: false
+  xy: 1203, 52
+  size: 114, 120
+  orig: 114, 120
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: false
+  xy: 2599, 311
+  size: 208, 174
+  orig: 208, 174
+  offset: 0, 0
+  index: -1

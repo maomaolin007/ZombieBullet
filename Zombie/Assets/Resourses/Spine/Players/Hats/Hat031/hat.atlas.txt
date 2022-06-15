@@ -1,0 +1,13 @@
+
+hat.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hat
+  rotate: false
+  xy: 2, 2
+  size: 150, 86
+  orig: 151, 86
+  offset: 1, 0
+  index: -1

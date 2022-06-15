@@ -1,0 +1,118 @@
+
+witch.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 21
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+chin
+  rotate: true
+  xy: 134, 2
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 93
+  size: 151, 161
+  orig: 151, 161
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 238, 143
+  size: 113, 55
+  orig: 113, 55
+  offset: 0, 0
+  index: -1
+larm001
+  rotate: false
+  xy: 416, 134
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+larm002
+  rotate: true
+  xy: 231, 54
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+lfoot
+  rotate: false
+  xy: 374, 99
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+lhand
+  rotate: false
+  xy: 353, 139
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+lleg001
+  rotate: true
+  xy: 365, 219
+  size: 35, 129
+  orig: 35, 129
+  offset: 0, 0
+  index: -1
+lleg002
+  rotate: true
+  xy: 231, 83
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+rarm001
+  rotate: false
+  xy: 327, 83
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+rarm002
+  rotate: true
+  xy: 365, 188
+  size: 29, 94
+  orig: 29, 94
+  offset: 0, 0
+  index: -1
+rfoot
+  rotate: false
+  xy: 475, 175
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: false
+  xy: 155, 75
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+rleg001
+  rotate: false
+  xy: 155, 144
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+rleg002
+  rotate: true
+  xy: 238, 200
+  size: 54, 125
+  orig: 54, 125
+  offset: 0, 0
+  index: -1
