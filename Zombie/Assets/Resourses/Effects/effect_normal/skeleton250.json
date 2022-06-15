@@ -1,0 +1,703 @@
+{
+"skeleton": { "hash": "K0z0SO7b6uU", "spine": "4.0.64", "fps": 45, "images": "../", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "骨骼", "parent": "root", "x": -61.78, "y": 3.98, "scaleX": 2.5, "scaleY": 2.5 },
+	{ "name": "骨骼2", "parent": "root", "x": -56.77, "y": 516.96 }
+],
+"slots": [
+	{ "name": "hit_fire", "bone": "骨骼" },
+	{ "name": "hit_ice", "bone": "骨骼" },
+	{ "name": "hit_wind", "bone": "骨骼" },
+	{ "name": "electric", "bone": "骨骼" },
+	{ "name": "addblood2", "bone": "骨骼", "blend": "screen" },
+	{ "name": "addblood", "bone": "骨骼", "color": "48f344e2", "blend": "screen" },
+	{ "name": "buff_effect2", "bone": "骨骼", "blend": "screen" },
+	{ "name": "buff_effect", "bone": "骨骼", "blend": "screen" },
+	{ "name": "dispel", "bone": "骨骼", "blend": "screen" },
+	{ "name": "reflect", "bone": "骨骼2", "color": "ffbe76ff", "dark": "3c1212" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"addblood": {
+				"effect/addblood/addblood01": { "x": 0.96, "y": 273.9, "scaleX": 2, "scaleY": 2, "width": 58, "height": 37 },
+				"effect/addblood/addblood02": { "x": -0.07, "y": 291.58, "scaleX": 1.8, "scaleY": 1.6, "width": 72, "height": 62 },
+				"effect/addblood/addblood03": {
+					"color": "ffffffaf",
+					"x": -1.56,
+					"y": 330.78,
+					"scaleX": 1.8,
+					"scaleY": 1.6,
+					"width": 75,
+					"height": 81
+				},
+				"effect/addblood/addblood04": { "x": -2.15, "y": 364.26, "scaleX": 1.6, "scaleY": 1.8, "width": 65, "height": 73 },
+				"effect/addblood/addblood05": { "x": -2.38, "y": 394.24, "scaleX": 1.6, "scaleY": 1.8, "width": 44, "height": 41 },
+				"effect/addblood/addblood06": { "x": 8.05, "y": 415.04, "scaleX": 1.8, "scaleY": 1.8, "width": 17, "height": 15 }
+			},
+			"addblood2": {
+				"effect/addblood/addblood07": { "y": 223.87, "scaleX": 2, "scaleY": 2.4, "width": 54, "height": 191 }
+			},
+			"buff_effect": {
+				"effect/effect_buff/add_atack02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_atack03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_atack04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_atack05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_atack06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_atack07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_atack08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_deadly02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_deadly03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_deadly04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_deadly05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_deadly06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_deadly07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_deadly08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_defend02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_defend03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_defend04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_defend05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_defend06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_defend07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_defend08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_ductility02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_ductility03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_ductility04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_ductility05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_ductility06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_ductility07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_ductility08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_penetration02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_penetration03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_penetration04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_penetration05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_penetration06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_penetration07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_penetration08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_rage02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_rage03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_rage04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_rage05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_rage06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_rage07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_rage08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 },
+				"effect/effect_buff/add_speed02": { "x": 12.63, "y": 57.64, "scaleX": 2, "scaleY": 2, "width": 157, "height": 58 },
+				"effect/effect_buff/add_speed03": { "x": 15.08, "y": 113.17, "scaleX": 2, "scaleY": 2, "width": 157, "height": 89 },
+				"effect/effect_buff/add_speed04": { "y": 175.86, "scaleX": 2, "scaleY": 2, "width": 144, "height": 103 },
+				"effect/effect_buff/add_speed05": { "y": 251.8, "scaleX": 2, "scaleY": 2, "width": 140, "height": 80 },
+				"effect/effect_buff/add_speed06": { "y": 337.77, "scaleX": 2, "scaleY": 2, "width": 120, "height": 85 },
+				"effect/effect_buff/add_speed07": { "y": 383.11, "scaleX": 2, "scaleY": 2, "width": 125, "height": 80 },
+				"effect/effect_buff/add_speed08": { "x": 23.59, "y": 426.03, "scaleX": 2, "scaleY": 2, "width": 71, "height": 58 }
+			},
+			"buff_effect2": {
+				"effect/effect_buff/add_atack01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_deadly01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_defend01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_ductility01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_penetration01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_rage01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 },
+				"effect/effect_buff/add_speed01": { "x": 3.91, "y": 180.45, "scaleX": 1.5, "scaleY": 1.8, "width": 118, "height": 202 }
+			},
+			"dispel": {
+				"effect/dispel/buff_dispel01": { "x": 21.85, "y": 209.3, "scaleX": 1.4, "scaleY": 1.4, "width": 130, "height": 130 },
+				"effect/dispel/buff_dispel02": { "x": 21.85, "y": 209.3, "scaleX": 1.5, "scaleY": 1.5, "width": 199, "height": 199 },
+				"effect/dispel/buff_dispel03": { "x": 21.85, "y": 209.3, "scaleX": 1.6, "scaleY": 1.6, "width": 177, "height": 183 },
+				"effect/dispel/buff_dispel04": { "x": 17.34, "y": 209.3, "scaleX": 1.6, "scaleY": 1.6, "width": 199, "height": 191 },
+				"effect/dispel/buff_dispel05": { "x": 31.45, "y": 214.13, "scaleX": 1.6, "scaleY": 1.6, "width": 178, "height": 169 },
+				"effect/dispel/buff_dispel06": { "x": 27.13, "y": 198.94, "scaleX": 1.6, "scaleY": 1.6, "width": 156, "height": 144 }
+			},
+			"electric": {
+				"effect/electric/hit_electric_01": { "scaleX": 1.4, "scaleY": 1.4, "width": 123, "height": 109 },
+				"effect/electric/hit_electric_02": { "scaleX": 1.4, "scaleY": 1.4, "width": 225, "height": 228 },
+				"effect/electric/hit_electric_03": { "x": 14.97, "y": -16.6, "scaleX": 1.4, "scaleY": 1.4, "width": 204, "height": 201 },
+				"effect/electric/hit_electric_04": { "scaleX": 1.4, "scaleY": 1.4, "width": 225, "height": 228 },
+				"effect/electric/hit_electric_05": { "x": 12.19, "y": -5.54, "scaleX": 1.4, "scaleY": 1.4, "width": 232, "height": 220 },
+				"effect/electric/hit_electric_06": { "x": 1.38, "y": -3.65, "scaleX": 1.4, "scaleY": 1.4, "width": 224, "height": 219 },
+				"effect/electric/hit_electric_07": { "y": 17.14, "scaleX": 1.4, "scaleY": 1.4, "width": 220, "height": 191 }
+			},
+			"hit_fire": {
+				"effect/fire/hit_fire_01": { "width": 144, "height": 172 },
+				"effect/fire/hit_fire_02": { "x": 28.33, "y": 15.18, "scaleX": 1.2, "scaleY": 1.2, "width": 126, "height": 135 },
+				"effect/fire/hit_fire_03": { "x": 61.73, "y": 30.34, "scaleX": 1.1, "scaleY": 1.1, "width": 151, "height": 161 },
+				"effect/fire/hit_fire_04": { "x": 52.89, "y": 38.34, "scaleX": 1.2, "scaleY": 1.2, "width": 161, "height": 166 }
+			},
+			"hit_ice": {
+				"effect/ice/hit_ice_01": { "scaleX": 0.6, "scaleY": 0.6, "width": 114, "height": 158 },
+				"effect/ice/hit_ice_02": { "x": 5.16, "scaleX": 1.1, "scaleY": 1.3, "width": 148, "height": 165 },
+				"effect/ice/hit_ice_03": { "y": 11, "scaleX": 1.2, "scaleY": 1.2, "width": 155, "height": 158 },
+				"effect/ice/hit_ice_04": { "x": 2.07, "y": 3.76, "scaleX": 1.5, "scaleY": 1.5, "width": 145, "height": 143 }
+			},
+			"hit_wind": {
+				"effect/wind/hit_wind_01": { "scaleY": 1.2, "width": 134, "height": 163 },
+				"effect/wind/hit_wind_02": { "x": 34.33, "y": 14.92, "scaleY": 1.2, "width": 195, "height": 205 },
+				"effect/wind/hit_wind_03": { "x": 47.26, "y": 16.91, "scaleY": 1.2, "width": 220, "height": 218 },
+				"effect/wind/hit_wind_04": { "x": 81.09, "y": 36.81, "scaleY": 1.2, "width": 179, "height": 187 },
+				"effect/wind/hit_wind_05": { "x": 47.76, "y": 24.88, "scaleY": 1.2, "width": 140, "height": 179 }
+			},
+			"reflect": {
+				"effect/effect_buff/reflect": { "scaleX": 4, "scaleY": 3, "width": 231, "height": 161 }
+			}
+		}
+	}
+],
+"animations": {
+	"addattack": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_rage02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_rage03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_rage04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_rage05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_rage06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_rage07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_rage08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_rage01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_rage01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_rage01" }
+				]
+			}
+		}
+	},
+	"addblood": {
+		"slots": {
+			"addblood": {
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/addblood/addblood01" },
+					{ "time": 0.4, "name": "effect/addblood/addblood02" },
+					{ "time": 0.4667, "name": "effect/addblood/addblood03" },
+					{ "time": 0.5333, "name": "effect/addblood/addblood04" },
+					{ "time": 0.6, "name": "effect/addblood/addblood05" },
+					{ "time": 0.6667, "name": "effect/addblood/addblood06" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"addblood2": {
+				"rgba": [
+					{
+						"time": 0.2222,
+						"color": "184a0000",
+						"curve": [ 0.25, 0.09, 0.306, 0.68, 0.25, 0.29, 0.306, 0.86, 0.25, 0, 0.306, 0.6, 0.25, 0, 0.306, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"color": "addb98ff",
+						"curve": [ 0.361, 0.68, 0.417, 1, 0.361, 0.86, 0.417, 1, 0.361, 0.6, 0.417, 1, 0.361, 1, 0.417, 1 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffff",
+						"curve": [ 0.528, 1, 0.694, 0.07, 0.528, 1, 0.694, 0.35, 0.528, 1, 0.694, 0, 0.528, 1, 0.694, 0 ]
+					},
+					{ "time": 0.7778, "color": "115a0000" }
+				],
+				"attachment": [
+					{ "time": 0.2222, "name": "effect/addblood/addblood07" },
+					{ "time": 0.7778, "name": null }
+				]
+			}
+		}
+	},
+	"adddeadly": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_deadly02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_deadly03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_deadly04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_deadly05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_deadly06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_deadly07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_deadly08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_deadly01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_deadly01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_deadly01" }
+				]
+			}
+		}
+	},
+	"adddefend": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_defend02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_defend03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_defend04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_defend05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_defend06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_defend07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_defend08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_defend01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_defend01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_defend01" }
+				]
+			}
+		}
+	},
+	"addductility": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_ductility02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_ductility03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_ductility04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_ductility05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_ductility06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_ductility07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_ductility08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_ductility01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_ductility01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_ductility01" }
+				]
+			}
+		}
+	},
+	"addpenetration": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_penetration02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_penetration03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_penetration04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_penetration05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_penetration06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_penetration07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_penetration08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_penetration01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_penetration01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_penetration01" }
+				]
+			}
+		}
+	},
+	"addrage": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_atack02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_atack03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_atack04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_atack05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_atack06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_atack07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_atack08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_atack01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_atack01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_atack01" }
+				]
+			}
+		}
+	},
+	"addspeed": {
+		"slots": {
+			"buff_effect": {
+				"rgba": [
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 1, 0.661, 1, 0.739, 0 ]
+					},
+					{ "time": 0.7778, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1111, "name": null },
+					{ "time": 0.3111, "name": "effect/effect_buff/add_speed02" },
+					{ "time": 0.3778, "name": "effect/effect_buff/add_speed03" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_speed04" },
+					{ "time": 0.5111, "name": "effect/effect_buff/add_speed05" },
+					{ "time": 0.5778, "name": "effect/effect_buff/add_speed06" },
+					{ "time": 0.6444, "name": "effect/effect_buff/add_speed07" },
+					{ "time": 0.7111, "name": "effect/effect_buff/add_speed08" },
+					{ "time": 0.7778, "name": null }
+				]
+			},
+			"buff_effect2": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "49494900",
+						"curve": [ 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.55, 0.39, 1, 0.353, 0.3, 0.39, 0.79 ]
+					},
+					{
+						"time": 0.4444,
+						"color": "ffffffca",
+						"curve": [ 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 1, 0.535, 1, 0.477, 0.87, 0.535, 1 ]
+					},
+					{
+						"time": 0.6222,
+						"color": "ffffffff",
+						"curve": [ 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.73, 0.701, 0.28, 0.65, 0.62, 0.701, 0.01 ]
+					},
+					{ "time": 0.7778, "color": "46464600" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": "effect/effect_buff/add_speed01" },
+					{ "time": 0.4444, "name": "effect/effect_buff/add_speed01" },
+					{ "time": 0.7778, "name": "effect/effect_buff/add_speed01" }
+				]
+			}
+		}
+	},
+	"dispel": {
+		"slots": {
+			"dispel": {
+				"rgba": [
+					{
+						"time": 0.5333,
+						"color": "ffffffff",
+						"curve": [ 0.611, 1, 0.767, 1, 0.611, 1, 0.767, 1, 0.611, 1, 0.767, 1, 0.611, 1, 0.767, 0 ]
+					},
+					{ "time": 0.8444, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.2222, "name": "effect/dispel/buff_dispel01" },
+					{ "time": 0.2667, "name": "effect/dispel/buff_dispel02" },
+					{ "time": 0.3556, "name": "effect/dispel/buff_dispel03" },
+					{ "time": 0.4222, "name": "effect/dispel/buff_dispel04" },
+					{ "time": 0.4889, "name": "effect/dispel/buff_dispel05" },
+					{ "time": 0.5333, "name": "effect/dispel/buff_dispel06" },
+					{ "time": 0.8444, "name": null }
+				]
+			}
+		}
+	},
+	"hit_electric01": {
+		"slots": {
+			"electric": {
+				"rgba": [
+					{
+						"time": 0.4222,
+						"color": "ffffffff",
+						"curve": [ 0.483, 1, 0.606, 1, 0.483, 1, 0.606, 1, 0.483, 1, 0.606, 1, 0.483, 1, 0.606, 0 ]
+					},
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "effect/electric/hit_electric_01" },
+					{ "time": 0.0667, "name": "effect/electric/hit_electric_02" },
+					{ "time": 0.2, "name": "effect/electric/hit_electric_03" },
+					{ "time": 0.2667, "name": "effect/electric/hit_electric_04" },
+					{ "time": 0.3333, "name": "effect/electric/hit_electric_05" },
+					{ "time": 0.3778, "name": "effect/electric/hit_electric_06" },
+					{ "time": 0.4222, "name": "effect/electric/hit_electric_07" },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	},
+	"hit_fire01": {
+		"slots": {
+			"hit_fire": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "ffffffff",
+						"curve": [ 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 0 ]
+					},
+					{ "time": 0.5111, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "effect/fire/hit_fire_01" },
+					{ "time": 0.0667, "name": "effect/fire/hit_fire_02" },
+					{ "time": 0.2667, "name": "effect/fire/hit_fire_03" },
+					{ "time": 0.3333, "name": "effect/fire/hit_fire_04" }
+				]
+			}
+		}
+	},
+	"hit_ice01": {
+		"slots": {
+			"hit_ice": {
+				"rgba": [
+					{
+						"time": 0.3333,
+						"color": "ffffffff",
+						"curve": [ 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 1, 0.378, 1, 0.467, 0 ]
+					},
+					{ "time": 0.5111, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "effect/ice/hit_ice_01" },
+					{ "time": 0.0667, "name": "effect/ice/hit_ice_02" },
+					{ "time": 0.2667, "name": "effect/ice/hit_ice_03" },
+					{ "time": 0.3333, "name": "effect/ice/hit_ice_04" }
+				]
+			}
+		}
+	},
+	"hit_wind01": {
+		"slots": {
+			"hit_wind": {
+				"attachment": [
+					{ "name": "effect/wind/hit_wind_01" },
+					{ "time": 0.0222, "name": "effect/wind/hit_wind_02" },
+					{ "time": 0.0667, "name": "effect/wind/hit_wind_03" },
+					{ "time": 0.1333, "name": "effect/wind/hit_wind_04" },
+					{ "time": 0.2, "name": "effect/wind/hit_wind_05" },
+					{ "time": 0.2444, "name": null },
+					{ "time": 0.2667, "name": "effect/wind/hit_wind_01" },
+					{ "time": 0.2889, "name": "effect/wind/hit_wind_02" },
+					{ "time": 0.3333, "name": "effect/wind/hit_wind_03" },
+					{ "time": 0.4, "name": "effect/wind/hit_wind_04" },
+					{ "time": 0.4667, "name": "effect/wind/hit_wind_05" },
+					{ "time": 0.5111, "name": null }
+				]
+			}
+		}
+	},
+	"reflect": {
+		"slots": {
+			"reflect": {
+				"rgba2": [
+					{
+						"time": 0.5556,
+						"light": "fcb387ff",
+						"dark": "3c1212",
+						"curve": [ 0.585, 0.8, 0.622, 0.58, 0.585, 0.51, 0.622, 0.28, 0.585, 0.37, 0.622, 0.19, 0.585, 0.98, 0.622, 0.96, 0.585, 0.17, 0.622, 0.08, 0.585, 0.05, 0.622, 0.02, 0.585, 0.05, 0.622, 0.02 ]
+					},
+					{
+						"time": 0.6667,
+						"light": "5c0f01ef",
+						"dark": "000000",
+						"curve": [ 0.694, 0.31, 0.73, 0.26, 0.694, 0.08, 0.73, 0.09, 0.694, 0, 0.73, 0, 0.694, 0.46, 0.73, 0.01, 0.694, 0.12, 0.73, 0.23, 0.694, 0.04, 0.73, 0.07, 0.694, 0.04, 0.73, 0.07 ]
+					},
+					{ "time": 0.7778, "light": "41180000", "dark": "3c1212" }
+				],
+				"attachment": [
+					{ "time": 0.2222, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.2667, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.3111, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.3556, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.4, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.5556, "name": "effect/effect_buff/reflect" },
+					{ "time": 0.7778, "name": "effect/effect_buff/reflect" }
+				]
+			}
+		},
+		"bones": {
+			"骨骼2": {
+				"scale": [
+					{
+						"time": 0.2222,
+						"y": 0.253,
+						"curve": [ 0.23, 1.375, 0.245, 1.995, 0.23, 0.734, 0.245, 1.53 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 2,
+						"y": 1.537,
+						"curve": [ 0.275, 1.625, 0.289, 1.005, 0.275, 1.247, 0.289, 0.768 ]
+					},
+					{
+						"time": 0.3111,
+						"y": 0.764,
+						"curve": [ 0.319, 1.078, 0.334, 1.206, 0.319, 0.936, 0.334, 1.22 ]
+					},
+					{
+						"time": 0.3556,
+						"x": 1.207,
+						"y": 1.222,
+						"curve": [ 0.364, 1.129, 0.378, 1.001, 0.364, 1.139, 0.378, 1.001 ]
+					},
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.7778 }
+				]
+			}
+		}
+	}
+}
+}
